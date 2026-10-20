@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/asottile/classify-imports/commit/e63b6c6e66ba4745c05331c3d21e513bf30132f6",
       "git:hexsha": "e63b6c6e66ba4745c05331c3d21e513bf30132f6",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/asottile/classify-imports/commit/2575615365a73dcf7d9dfdbf6154043efedbbff4",
