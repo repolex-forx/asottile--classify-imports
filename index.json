@@ -1,0 +1,11 @@
+{
+  "org": "asottile",
+  "repo": "classify-imports",
+  "versions": [
+    {
+      "commit": "e63b6c6e66ba4745c05331c3d21e513bf30132f6",
+      "tag": "",
+      "parsed_at": "2026-10-20T11:31:10.381349+00:00"
+    }
+  ]
+}
